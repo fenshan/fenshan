@@ -1,16 +1,15 @@
-### Hi there 👋
+hey! i am fen nicolás `he/they`, a spanish game dev focused on programming and design. 
+
+my main game engine and programming language is **unity/c#**, although i can also program in c++ and python. i am really into mobile games, accessibility, representation of diversity and music production.
+
+here you can see [my portfolio in the making](https://fenshan.dev) and some of my [finished games on itch.io](https://fenshan.itch.io) 
+
+feel free to contact me on [linkedin](https://www.linkedin.com/in/fenshan/) or [twitter](https://twitter.com/fenshan_)
+
+
 
 <!--
-**fenshan/fenshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub Logo](/images/logo.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
