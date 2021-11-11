@@ -1,4 +1,4 @@
-hey! i am fen nicolás `he/they`, a spanish game dev focused on programming and design. 
+hey! i am fen nicolás `they/he`, a spanish game dev focused on programming and design. 
 
 my main game engine and programming language is **unity/c#**, although i can also program in c++ and python. i am really into mobile games, accessibility, representation of diversity and music production.
 
