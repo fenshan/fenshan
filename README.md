@@ -16,9 +16,9 @@ feel free to contact me via [linkedin](https://www.linkedin.com/in/fenshan/) or 
  -->
 
 <p align="center"><span>
- <a href="https://github.com/fenshan"><img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=fenshan&theme=radical" alt="fenshan streak stats"/></a>
+ <a href="https://github.com/fenshan"><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=fenshan&theme=radical" alt="fenshan streak stats"/></a>
  &emsp;
- <a href="https://github.com/fenshan"><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenshan&layout=compact&theme=radical&hide=asp.net&langs_count=10" alt="fenshan langs stats"/></a>
+ <a href="https://github.com/fenshan"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenshan&layout=compact&theme=radical&hide=asp.net&langs_count=10" alt="fenshan langs stats"/></a>
 </span></p>
 
 <!--
