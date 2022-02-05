@@ -16,12 +16,10 @@ feel free to contact me via [linkedin](https://www.linkedin.com/in/fenshan/) or 
  -->
 
 <p align="center"><span>
- <a href="https://github.com/fenshan"><img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=fenshan&theme=radical" alt="fenshan streak stats"/></a>
- &emsp;
- <a href="https://github.com/fenshan"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenshan&layout=compact&theme=radical&langs_count=10&hide=asp.net" alt="fenshan langs stats"/></a>
+ <a href="https://github.com/fenshan"><img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=fenshan&theme=radical" alt="fenshan streak stats"/></a><a href="https://github.com/fenshan"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenshan&layout=compact&theme=radical&langs_count=10&hide=asp.net" alt="fenshan langs stats"/></a>
 </span></p>
 
-<!--
+<!-- &emsp;
 top languages: 
  &hide=asp.net
  &exclude_repo=dueto-de-la-konstelacioj
