@@ -22,6 +22,10 @@ feel free to contact me via [linkedin](https://www.linkedin.com/in/fenshan/) or 
 </span></p>
 
 <!-- 
+void link a href https://stackoverflow.com/questions/11144653/a-script-links-without-href
+-->
+
+<!-- 
 top languages: 
  &hide=asp.net
  &exclude_repo=dueto-de-la-konstelacioj
