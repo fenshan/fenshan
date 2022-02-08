@@ -4,7 +4,7 @@ hey! i am fen nicolás `they/he`, a spanish game dev focused on programming and 
 
 my main game engine and programming language is **unity/c#**, although i can also code in c++, c, java and python. i am really into mobile games, accessibility, representation of diversity and music production.
 
-i am also a learner at [42 madrid](https://www.42madrid.com/en/philosophy-42/) (part of the 42 international network of IT campuses).
+i am also a learner at [42 madrid](https://www.42madrid.com/en/philosophy-42/), one of the IT campuses in the international network 42.
 
 here you can see [my portfolio in the making](https://fenshan.github.io/) and some of my [finished games on itch.io](https://fenshan.itch.io).
 
