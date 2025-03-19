@@ -8,7 +8,7 @@ i am currently a learner at [42 madrid](https://www.42madrid.com/en/philosophy-4
 
 here you can see [my portfolio in the making](https://fenshan.github.io/) and some of my [finished games on itch.io](https://fenshan.itch.io).
 
-feel free to contact me via [linkedin](https://www.linkedin.com/in/fenshan/) or [twitter](https://twitter.com/fenshan_).
+feel free to contact me via [linkedin](https://www.linkedin.com/in/fenshan/).
 
 </br>
 
